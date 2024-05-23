@@ -1,0 +1,26 @@
+#result{
+    min-height: 315px;
+    overflow-y:  auto;
+
+}
+.input-grooup{
+    background-color: #005f73;
+    height: 103px;
+}
+.input-group{
+    height: 100px;
+}
+.foot{
+    margin-bottom: 0px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    border: black 12px;
+}
+.text{
+    /* font-size: 1.3rem;
+     */
+     margin: 0.8rem;
+     padding: 0px 0px;
+}
